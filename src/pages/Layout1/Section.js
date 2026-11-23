@@ -1,11 +1,9 @@
 import React, { Component } from "react";
 import { Container, Row, Col } from "reactstrap";
-import { Link } from "react-router-dom";
 
 // Import Background Image
 import Background from "../../assets/images/hero-1-bg-img.png";
 import hero from "../../assets/images/Ehatech_Images/hero section image.png";
-import microsoft from '../../assets/images/microsoft.jpeg'
 class Section extends Component {
   render() {
     return (

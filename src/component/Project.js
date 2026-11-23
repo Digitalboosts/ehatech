@@ -1,15 +1,7 @@
 import React, { Component } from "react";
-import { Col, Container, Row } from "reactstrap";
-import { Link } from "react-router-dom";
+import { Container, Row } from "reactstrap";
 
-//import icon
-import FeatherIcon from "feather-icons-react";
 
-// feature Image
-import Img2 from "../assets/images/Ehatech_Images/sourav-profile.png";
-import Img3 from "../assets/images/Ehatech_Images/Rabi.png";
-import Img4 from "../assets/images/Ehatech_Images/shankar.png";
-import Img5 from "../assets/images/Ehatech_Images/Vishal.png";
 
 export default class Project extends Component {
   constructor(props) {

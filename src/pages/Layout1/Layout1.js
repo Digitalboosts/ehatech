@@ -7,7 +7,6 @@ const About = React.lazy(() => import("../../component/About"));
 const Services = React.lazy(() => import("../../component/Services"));
 const Feature = React.lazy(() => import("../../component/Feature"));
 const Project = React.lazy(() => import("../../component/Project"));
-const News = React.lazy(() => import("../../component/News"));
 const Contact = React.lazy(() => import("../../component/Contact"));
 const Footer = React.lazy(() => import("../../component/Footer/Footer"));
 

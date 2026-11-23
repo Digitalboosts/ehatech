@@ -6,7 +6,6 @@ import FooterLink from "../Footer/Footer_link";
 // Footer Image
 import footer_image from "../../assets/images/hero-1-bg-img.png";
 import logolight from "../../assets/images/Ehatech_Images/white logo.png";
-import microsoft from '../../assets/images/microsoft.jpeg'
 
 class Footer extends Component {
   constructor(props) {

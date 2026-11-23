@@ -6,7 +6,6 @@ import Background from "../assets/images/service-icon-bg.png";
 import FileProcessing from "../assets/images/Ehatech_Images/file_processing_white_icon.png";
 import Ai from "../assets/images/Ehatech_Images/ai icon_white.png";
 import OCR from "../assets/images/Ehatech_Images/optical logo_white.png";
-import { Link } from "react-router-dom";
 
 export default class Services extends Component {
   render() {

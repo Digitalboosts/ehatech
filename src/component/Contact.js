@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
 import axios from "axios"; // Make sure to import axios
 
 import {
@@ -23,7 +22,7 @@ const Contact = () => {
     message: "",
   });
 console.log("formData",formData)
-  const [data, setData] = useState([]);
+  const [, setData] = useState([]);
 
   const handleChange = (e) => {
     setFormData({

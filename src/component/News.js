@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 import { Col, Container, Row } from "reactstrap";
 
-//import icon
-import FeatherIcon from "feather-icons-react";
 
 // Import News Image
 import Img1 from "../assets/images/Ehatech_Images/cover photo.jpg";
